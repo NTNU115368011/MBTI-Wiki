@@ -7,26 +7,6 @@
 - 建立 README.md，說明專案目的與工作流程。
 - 建立 Wiki 索引 index.md。
 
-## 資料來源匯入
-
-尚未開始。
-
-## Wiki 建置
-
-尚未開始。
-
-## HTML 簡報生成
-
-尚未開始。
-
-## 品質檢查與修正
-
-尚未開始。
-
-## 執行反思
-
-待實際執行後整理。
-
 ## 2026-11-17｜完成 S1 資料閱讀與來源筆記建立
 - **執行內容**：
   - 完整閱讀 `sources/S1_Personality_Type_and_Organizational_Inclusion.pdf`（John Hackston, 2021, The Myers-Briggs Company，共 61 頁）。

@@ -28,7 +28,7 @@ MBTI-Wiki/
 │   ├── concepts/
 │   ├── personalities/
 │   └── source_notes/
-└── slides/
+
 ```
 
 ## 工作流程
@@ -48,12 +48,6 @@ MBTI-Wiki/
 - 自動生成的 HTML 教學簡報
 - Wiki 建置與簡報生成流程紀錄
 - 執行結果及流程反思
-
-## 使用方式
-
-Wiki 文件以 Markdown 格式閱讀。
-
-HTML 教學簡報完成後，可直接透過瀏覽器開啟 `slides/index.html`。
 
 ## 作業展示
 

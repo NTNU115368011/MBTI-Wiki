@@ -52,5 +52,5 @@ MBTI-Wiki/
 ## 作業展示
 
 GitHub Repository：  
-https://github.com/NTNU115368011/MBTI-Wiki](https://ntnu115368011.github.io/MBTI-Wiki/presentation.html
+https://ntnu115368011.github.io/MBTI-Wiki/presentation.html
 

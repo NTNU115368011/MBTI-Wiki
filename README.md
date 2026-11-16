@@ -58,4 +58,4 @@ HTML 教學簡報完成後，可直接透過瀏覽器開啟 `slides/index.html`�
 ## 作業展示
 
 GitHub Repository：  
-https://github.com/NTNU115368011/MBTI-Wiki
+https://github.com/NTNU115368011/MBTI-Wiki](https://ntnu115368011.github.io/MBTI-Wiki/presentation.html)
